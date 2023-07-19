@@ -1,4 +1,4 @@
-# the-great-weaver: A Graph-based Visualization approach for Related Work Exploration, Claim Detection, Citation Recommendation, and Research Footprint Exploration
+# A Graph-based Visualization approach for Related Work Exploration, Claim Detection, Citation Recommendation, and Research Footprint Exploration
 
 Scientific papers are the foundation for expanding understanding, incorporating emerging insights, and building upon existing methodologies. However, the rapid growth of scholarly literature presents challenges in keeping up with the latest developments. Additionally, the process of generating related works sections through extensive literature reviews is time-consuming and resource-intensive. To address these challenges, my research proposal focuses on three interconnected research questions that aim to enhance the efficiency and effectiveness of related works sections in academic papers by combining previously implemented ideas:
 
